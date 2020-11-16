@@ -1,4 +1,4 @@
-### Three way of Dependency Injection
+### Three ways of Dependency Injection
 
 
 - [Constructor Dependency Injection](https://github.com/Lilic14991/DependencyInjection_IoC/blob/860632f7ef46d0f6e1711fd8b23de28aefd398ec/ConstructorDependencyInjection.cs#L177-L183)
